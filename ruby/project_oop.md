@@ -138,6 +138,8 @@ Build a tic-tac-toe game on the command line where two human players can play ag
 * [Leonard Soai-Van's solution](https://github.com/leosoaivan/rubytictactoe)
 * [at0micr3d's solution](https://github.com/at0micr3d/project_oop/tree/master/tictactoe)
 * [Timur Kharisov's solution](https://github.com/exosty/the-odin-project/tree/master/3-ruby-programming/intermediate-ruby/oop-with-ruby/tic-tac-toe)
+* [m-chrzan's solution](https://github.com/m-chrzan/tic-tac-toe)
+* [Loris Aranda's solution](https://github.com/LorisProg/ruby-oop/tree/master/tictactoe)
 * Add your solution above this line!
 
 
@@ -251,7 +253,10 @@ Build a Mastermind game from the command line where you have 12 turns to guess t
 * [Rahul's solution(No AI)](https://github.com/rspsonu/the_odin_project/blob/master/ruby/OOP/mastermind.rb)
 * [Clint's solution (with AI)](https://github.com/tholymap/Odin-Ruby-OOP/blob/master/MasterMind/mmgame.rb)
 * [at0micr3d's solution](https://github.com/at0micr3d/project_oop/tree/master/mastermind)
-[Chris Chambers' Solution (Undefeated AI)](https://github.com/chrisgchambers/ruby_exercies/tree/master/mastermind)
+* [Chris Chambers' solution (with darn good AI)](https://github.com/chrisgchambers/ruby_exercies/tree/master/mastermind)
+* [m-chrzan's solution (no AI)](https://github.com/m-chrzan/mastermind)
+* [Loris Aranda's solution](https://github.com/LorisProg/ruby-oop/tree/master/mastermind/lib)
+>>>>>>> upstream/master
 * Add your solution above this line!
 
 ## Additional Resources
