@@ -786,7 +786,15 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Charles Clemens' Solution](https://github.com/CClemensJr/googleClone)| [View in Browser](http://htmlpreview.github.io/?https://github.com/CClemensJr/googleClone/blob/master/index.html)
 * [Liam Bats' Solution](https://github.com/willdeville/google-homepage) | [View in Browser (Easy)](https://htmlpreview.github.io/?https://github.com/willdeville/google-homepage/blob/master/index.html)
 * [Ariel Smith's Solution](https://github.com/gr3if/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/gr3if/google-homepage/blob/master/index.html)
-* [Gelu Bogdan's Solution](https://github.com/gelubogdan/google-homepage/) | [View in Browser](https://htmlpreview.github.io/?https://github.com/gelubogdan/google-homepage/blob/master/index.html)
+* [Gelu Bogdan's Solution](https://github.com/gelubogdan/google-homepage/) | [Easy version - view in browser](https://htmlpreview.github.io/?https://github.com/gelubogdan/google-homepage/blob/master/index.html) | [Difficult version - view in browser] (https://htmlpreview.github.io/?https://github.com/gelubogdan/google-resultspage/blob/master/index.html)
+* [Trevor Drury's Solution (difficult)](https://github.com/trevawhateva/google-homepage) | [View in Browser] (https://htmlpreview.github.io/?https://github.com/trevawhateva/google-homepage/blob/master/index.html)
+* [Oliver Potter's Solution](https://github.com/ol4er/google-homepage) | [View in Browser] (http://htmlpreview.github.io/?https://github.com/ol4er/google-homepage/blob/master/google.html)
+* [gitDew's Solution](https://github.com/gitDew/google-clone) | [View in Browser - Easy](http://htmlpreview.github.io/?https://github.com/gitDew/google-clone/blob/master/index.html) | [View in Browser - Hard](https://htmlpreview.github.io/?https://github.com/gitDew/google-clone/blob/master/search.html)
+* [Travis Gibson's Solution](https://github.com/GibsonT/homemade-google-easy) | [View in Browser] (http://htmlpreview.github.io/?https://github.com/GibsonT/homemade-google-easy/blob/master/index.html)
+* [Grayson Price's Solution](https://github.com/gprice1832/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/gprice1832/google-homepage/blob/master/google-homepage.html)
+* [Kaique "Rique" Borges](https://github.com/riquekaique/google-homepage) | [View in Browser] (https://htmlpreview.github.io/?https://github.com/riquekaique/google-homepage)
+* [Antonio Bellu's Solution](https://github.com/antoniobellu/google-homepage) | [View in Browser](http://htmlpreview.github.io/?https://github.com/antoniobellu/google-homepage/blob/master/index.html)
+* [Stephen Burke's Solution](https://github.com/stephenburke13/google-homepage) | [View in Browser](http://htmlpreview.github.io/?https://github.com/stephenburke13/google-homepage/blob/master/index.html)
 * Add your solution above this line!
 
 ## Additional Resources
