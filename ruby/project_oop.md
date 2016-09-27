@@ -262,12 +262,6 @@ Build a Mastermind game from the command line where you have 12 turns to guess t
 * [Chris Chambers' solution (with darn good AI)](https://github.com/chrisgchambers/ruby_exercies/tree/master/mastermind)
 * [m-chrzan's solution (no AI)](https://github.com/m-chrzan/mastermind)
 * [Loris Aranda's solution](https://github.com/LorisProg/ruby-oop/tree/master/mastermind/lib)
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
 * [Leonard Soai-Van's solution](https://github.com/leosoaivan/rubymastermind.git)
 * [Derek Kwong's solution](https://github.com/dckwong/OOPRuby/blob/master/mastermind.rb)
 * [Dom Goj's solution] (https://github.com/booyakuhhsha/mastermind)
@@ -275,7 +269,7 @@ Build a Mastermind game from the command line where you have 12 turns to guess t
 * [David Chapman's solution(Simple AI)] (https://github.com/davidchappy/odin_training_projects/tree/master/mastermind)
 * [CodyLBuffaloe's solution with AI] (https://github.com/CodyLBuffaloe/Master_Mind)
 * [Hassan's solution](https://github.com/HassanTC/Ruby_TheOdinProject/tree/master/The%20odin%20project%20(Ruby%20projects)/Intermediate-Ruby/mastermind)
->>>>>>> upstream/master
+
 * Add your solution above this line!
 
 ## Additional Resources
