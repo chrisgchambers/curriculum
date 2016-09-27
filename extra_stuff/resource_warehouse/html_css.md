@@ -9,6 +9,7 @@
 **General CSS**
 * CSS protips: https://github.com/AllThingsSmitty/css-protips
 * Must watch CSS talks: https://github.com/AllThingsSmitty/must-watch-css
+* https://css-tricks.com/specifics-on-css-specificity/
 
 **CSS Animations**
 * Free book: http://cssanimationspocketguide.com
@@ -33,10 +34,13 @@
 
 * https://scotch.io/tag/sass
 * http://sass-lang.com/guide
+* comparison between sass and less: http://shelbymoulden.com/blog/?post=comparison-between-less-and-sass
 
 
 **Responsive webdesign**
 * full course: http://gymnasium.aquent.com/courses/GYM/101/0/about
+* udacity course: https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+* 9 basic principles of responsive web design: http://blog.froont.com/9-basic-principles-of-responsive-web-design/
 
 
 **Misc**
